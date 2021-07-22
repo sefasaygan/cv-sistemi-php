@@ -1,4 +1,4 @@
-# cv-sistemi-php
+# ÖZGEÇMİŞ PHP PROJESİ
 
 2019 yılında geliştirdiğim Cv yani özgeçmiş hazırlama sistemini geliştirmeye açık olarak paylaşıyorum.
 
