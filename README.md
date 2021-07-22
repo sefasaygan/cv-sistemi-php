@@ -12,3 +12,10 @@ Cv özgeçmiş sistemi ile geliştirmeler yapabilir ve kullanabilirsiniz.
 
 
 iyi kodlar :)
+
+# ÖZGEÇMİŞ PHP GÖRSELLERİ
+![alt text](https://www.sayganweb.com/github/cv-sistemi/cv-1.jpg)
+
+![alt text](https://www.sayganweb.com/github/cv-sistemi/cv-2.jpg)
+
+![alt text](https://www.sayganweb.com/github/cv-sistemi/cv-3.jpg)
