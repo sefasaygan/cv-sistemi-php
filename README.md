@@ -8,7 +8,7 @@ Cv özgeçmiş sistemi ile geliştirmeler yapabilir ve kullanabilirsiniz.
 
 1) php/ayar.php içerisinde veritabanı bilgilerin düzenlenmesi gerekmektedir.
 
-2)  .htaccess    klasör ayarı verilmesi gerekmektedir.
+2) htaccess.php dosya adının .htaccess yapılması gerekmektedir ve .htaccess    klasör ayarı verilmesi gerekmektedir.
 
 
 iyi kodlar :)
